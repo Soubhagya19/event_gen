@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dhg5f0/aqlA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soubh\\Documents\\event_gen\\VenueAPI\\VenueAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soubh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\soubh\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

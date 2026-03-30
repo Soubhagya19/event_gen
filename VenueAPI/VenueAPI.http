@@ -1,0 +1,6 @@
+@VenueAPI_HostAddress = http://localhost:5195
+
+GET {{VenueAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
